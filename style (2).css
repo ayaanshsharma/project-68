@@ -1,0 +1,45 @@
+#video{
+    width: 100%;
+    height: 500px;
+    border: none;
+   
+}
+
+
+.travel_maindiv{
+    border: 1px solid lightgray;
+}
+
+
+.travel_maindiv img{
+    width: 100%;
+}
+
+.travel_maindiv h5 , .travel_maindiv p{
+    margin: 200px;
+}
+#contact iframe
+{
+    width: 100%;
+}
+
+
+.travel2_mainDiv{
+
+    border: 1px solid red;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel2_mainDiv img{
+    width: 100%;
+}
+
+.travel2_mainDiv hr{
+    width: 230px;
+}
+
+.travel2_mainDiv h5, .trave1_mainDiv p{
+    margin-left: 20px;
+}
